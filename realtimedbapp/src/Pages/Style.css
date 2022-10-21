@@ -1,0 +1,50 @@
+.signUpMain {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.signUpHeading {
+    text-align: center;
+}
+
+.imageStyle {
+    height: 300px;
+    width: 300px
+}
+
+.commentsStyle {
+    padding: 12px 50px;
+    font-size: 20px;
+    background: #afc8e5;
+    border-radius: 10px;
+    margin-right: 5px !important;
+
+}
+
+.btnStyle {
+    height: 40px !important;
+    margin-top: 1.5rem !important;
+    margin-right: 5px !important;
+    margin-left: 5px !important
+}
+
+.commentSection {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem
+}
+
+.signoutButton{
+        margin: 1rem !important;
+    position: fixed !important;
+    float:right !important;
+}
+
+.commentsMain{
+    display: flex;
+    justify-content: center;
+}
